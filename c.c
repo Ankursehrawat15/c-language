@@ -12,7 +12,7 @@ int main() {
 
    }
 else{
-    printf("No bonus");
+    printf("No bonus for you");
 
 }
 return 0;
